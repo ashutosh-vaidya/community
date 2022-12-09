@@ -2,6 +2,8 @@ In this repository, all the resources of the article published on Medium or Link
 
 ## Python ##
 * [Infinity in Python](https://medium.com/@ashutosh.vaidya1190/infinity-in-python-e5c86f9fbf1f) | [Resources](https://github.com/ashutosh-vaidya/community/blob/main/Articles/Infinity%20in%20python/Infinity_in_Python.ipynb)
+* [Behind the scenes of For Loop](https://medium.com/@ashutosh.vaidya1190/behind-the-scenes-of-for-loop-f9f0bf108599) | [Resources](https://github.com/ashutosh-vaidya/community/blob/main/Articles/Behind%20the%20Sconces%20of%20For%20Loop/Behind%20the%20scenes%20of%20For%20Loop.ipynb)
+
 
 ## Exploratory Data Analysis ##
 * [Automated EDA Part 1 : pandas-profiling](https://www.linkedin.com/posts/ashutoshvaidya11_automated-eda-using-pandas-profiling-krish-activity-6980487122956746752-uGpF?utm_source=share&utm_medium=member_desktop)
